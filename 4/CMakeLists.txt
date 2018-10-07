@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12)
+project(euler)
+set(CMAKE_CXX_STANDARD 14)
+set(SRC_FILE main.cpp)
+add_executable(e4 ${SRC_FILE})
