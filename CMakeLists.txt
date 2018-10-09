@@ -4,4 +4,5 @@ project(euler)
 add_subdirectory(3)
 add_subdirectory(4)
 add_subdirectory(5)
+add_subdirectory(6)
 
