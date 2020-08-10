@@ -1,3 +1,4 @@
 {
-    "C_Cpp.default.configurationProvider": "go2sh.cmake-integration"
+  "C_Cpp.default.configurationProvider": "go2sh.cmake-integration",
+  "C_Cpp.clang_format_path": ".clang-format"
 }
