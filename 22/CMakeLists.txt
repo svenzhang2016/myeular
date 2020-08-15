@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.12)
+project(euler)
+set(CMAKE_CXX_STANDARD 17)
+file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/p022_names.txt DESTINATION ${CMAKE_CURRENT_BINARY_DIR}/Debug)
+add_executable(e22 main.cpp)
