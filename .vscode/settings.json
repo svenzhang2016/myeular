@@ -56,6 +56,8 @@
     "xlocmes": "cpp",
     "xlocmon": "cpp",
     "xloctime": "cpp",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "charconv": "cpp",
+    "format": "cpp"
   }
 }
